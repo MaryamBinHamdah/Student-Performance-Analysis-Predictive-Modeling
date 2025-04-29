@@ -32,14 +32,6 @@ The dataset selected is related to students' performance in mathematics, reading
 - **Clustering**: K-Means and Hierarchical clustering analysis.
 - **Version Control**: Project files managed and updated using GitHub.
 
-## How to Run the Project
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/[your-username]/Data-Analytics-Project.git
-    ```
-2. Open the Jupyter Notebook (`.ipynb`) files or run the Python scripts (`.py`) as needed.
-3. Review the Word report (`.docx`) for detailed explanations of the analysis steps.
-
 ## Files Included
 - StudentsPerformance.csv (dataset)
 - Python scripts and/or Colab notebooks
