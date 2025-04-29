@@ -36,6 +36,7 @@ The dataset selected is related to students' performance in mathematics, reading
 - StudentsPerformance.csv (dataset)
 - Python scripts and/or Colab notebooks
 - Project Report: CIS 2423_Project_Report_202420.docx
+- Project Presentation.pdf
 
 ## Team Members
 - [ Hessa Khalfan]
