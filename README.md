@@ -1,11 +1,13 @@
 # 📊 Student Performance Analysis & Predictive Modeling
 
-<p align="center">
-  <img src="./assets/images/banner.png" alt="Project Banner" width="85%"/>
-    
+<div align="center">
 
-  <em>A complete data science project analyzing student performance and building predictive models to identify success factors.</em>
-</p>
+![Project Banner](https://github.com/HesKal/Data-Analytics-Project/blob/main/assets/images/banner.png.jpg?raw=true)
+
+*A complete data science project analyzing student performance and building predictive models to identify success factors.*
+
+</div>
+
 
 ## 🌟 Project Overview
 
