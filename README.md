@@ -87,7 +87,7 @@ We used unsupervised learning to group students into distinct performance segmen
 
 ---
 📄 Full Project Documentation
-
+* Please refer to [View Student Preformance Report (PDF)](Student-Performance-Analysis-&-Predictive-Modeling-Report.docx/Student-Performance-Analysis-&-Predictive-Modeling-Report.pdf)
 
 ---
 ## 👥 The Team
