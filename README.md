@@ -86,7 +86,10 @@ We used unsupervised learning to group students into distinct performance segmen
 * 19- Explain the strategy for improving the system after viewing the cluster diagram.
 
 ---
+📄 Full Project Documentation
 
+
+---
 ## 👥 The Team
 
 This project was a successful collaboration between:
